@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Hello"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+## Hello
 G'day, I'm currently a third-year underduate student at the University of New South Wales, studying Computer Science/
 Statistics. I'm broadly interested in Data Science, Deep Learning and Cyber Security. 
 
