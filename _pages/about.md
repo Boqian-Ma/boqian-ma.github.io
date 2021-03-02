@@ -17,21 +17,15 @@ On the side, I manage a high school education publisher [Catch Up With Top Achie
 
 ## Experience
 
-|                  |        |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+[CyberShield UNSW](#)
+: **Student Researcher**, 2021 - Present
 
+[Sydney Digital Currency Exchange](https://exchange.sdce.com.au/ "SDCE")
+: **Back-End Software Engineer Intern**, 2020/2021
+: Golang, Go-Swagger, MongoDB, Selenium, Python3
 
-* CyberShield UNSW
-:**Student Researcher**, 2021 - Present
-
-* [Sydney Digital Currency Exchange](https://exchange.sdce.com.au/ "SDCE")
-:**Back-End Software Engineer Intern**, 2020/2021
-:Golang, Go-Swagger, MongoDB, Selenium, Python3
-* [Catch Up With Top Achievers](https://Top-Achievers.com.au/ "Catch Up With Top Achievers")
-  **Founder**, 2019 - Present
+[Catch Up With Top Achievers](https://Top-Achievers.com.au/ "Catch Up With Top Achievers")
+: **Founder**, 2019 - Present
 
 ## Reading List
 1. [Zero to One by Peter Thiel](https://www.penguin.com.au/books/zero-to-one-9780753555200)
