@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 ## Hello
-======
 G'day, I'm currently a third-year underduate student at the University of New South Wales, studying Computer Science/
 Statistics. I'm broadly interested in Data Science, Deep Learning and Cyber Security. 
 
@@ -17,7 +16,6 @@ I'm currently doing network security research at UNSW Cybershield under Prof. Vi
 On the side, I manage a high school education publisher [Catch Up With Top Achievers](http://Top-Achievers.com.au "Catch Up With Top Achievers"). Our [study guides](https://www.amazon.com.au/s?k=Tree+Niu+Bee+Pty.Ltd&i=digital-text&dc&ref=a9_asc_1 "Study guides") have been consistently ranking first on Amazon under multiple education categories. 
 
 ## Experience
-======
 [CyberShield UNSW](https://www.challeng.unsw.edu.au/challeng-projects/cybershield "CyberShield")
 : **Student Researcher**, 2021 - Present
 
@@ -29,14 +27,12 @@ On the side, I manage a high school education publisher [Catch Up With Top Achie
 : **Founder**, 2019 - Present
 
 ## Media Appearances
-======
-- [Channel 7's Sunday Sunrise - 13/10/2020](https://www.youtube.com/watch?v=dv0kiEdhMyc&t=3s)
-- [Phoenix TV South Pacific & Australia - 澳华人后代出书传授高考心得引关注 - 07/11/2020](https://www.youtube.com/watch?v=woUTLiO1TIs)
-- [The Sydney Morning Herald - 'Delete your apps': How to blitz the HSC, by those who did - 01/09/2019](https://www.smh.com.au/education/delete-your-apps-how-to-blitz-the-hsc-by-those-who-did-20190829-p52m0t.html)
+- Channel 7's Sunday Sunrise - [2020 HSC and Beyond](https://www.youtube.com/watch?v=dv0kiEdhMyc&t=3s) - 13/10/2020
+- Phoenix TV South Pacific & Australia - [澳华人后代出书传授高考心得引关注](https://www.youtube.com/watch?v=woUTLiO1TIs) - 07/11/2020
+- The Sydney Morning Herald - ['Delete your apps': How to blitz the HSC, by those who did](https://www.smh.com.au/education/delete-your-apps-how-to-blitz-the-hsc-by-those-who-did-20190829-p52m0t.html) - 01/09/2019
 
 
 ## Reading List
-======
 1. [Zero to One by Peter Thiel](https://www.penguin.com.au/books/zero-to-one-9780753555200)
 2. [Rich Dad Poor Dad by Robert Kiyosaki](https://www.richdad.com/) 
 3. [12 Rules of Life by Jordan Peterson](https://www.jordanbpeterson.com/12-rules-for-life/)
