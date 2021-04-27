@@ -11,7 +11,7 @@ redirect_from:
 G'day, I'm currently a third-year underduate student at the University of New South Wales, studying Computer Science/
 Statistics. I'm broadly interested in Data Science, Deep Learning and Cyber Security. 
 
-I'm currently doing network security research at UNSW Cybershield under Prof. Vijay Sivaraman.
+<!-- I'm currently doing network security research at UNSW Cybershield under Prof. Vijay Sivaraman. -->
 
 On the side, I manage a high school education publisher [Catch Up With Top Achievers](http://Top-Achievers.com.au "Catch Up With Top Achievers"). Our [study guides](https://www.amazon.com.au/s?k=Tree+Niu+Bee+Pty.Ltd&i=digital-text&dc&ref=a9_asc_1 "Study guides") have been consistently ranking first on Amazon under multiple education categories. 
 
