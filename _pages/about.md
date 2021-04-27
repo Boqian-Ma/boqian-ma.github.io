@@ -26,6 +26,10 @@ On the side, I manage a high school education publisher [Catch Up With Top Achie
 [Catch Up With Top Achievers](https://Top-Achievers.com.au/ "Catch Up With Top Achievers")
 : **Founder**, 2019 - Present
 
+## News
+- 26/04/2021 I was accepted as a transfer Co-op scholar in Computer Science at UNSW. I will be starting my first work placement in June.
+- 31/03/2021 I was accepted to the Taste of Research scholarship at UNSW, which consists of 60 full days of academic research. I will commence my first ever AI research project in June under Dr. Jiaojiao Jiang.
+
 ## Media Appearances
 - Channel 7's Sunday Sunrise - [2020 HSC and Beyond](https://www.youtube.com/watch?v=dv0kiEdhMyc&t=3s) - 13/10/2020
 - Phoenix TV South Pacific & Australia - [澳华人后代出书传授高考心得引关注](https://www.youtube.com/watch?v=woUTLiO1TIs) - 07/11/2020
