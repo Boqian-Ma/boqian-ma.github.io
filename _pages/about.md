@@ -16,8 +16,12 @@ Statistics. I'm broadly interested in Data Science, Deep Learning and Cyber Secu
 On the side, I manage a high school education publisher [Catch Up With Top Achievers](http://Top-Achievers.com.au "Catch Up With Top Achievers"). Our [study guides](https://www.amazon.com.au/s?k=Tree+Niu+Bee+Pty.Ltd&i=digital-text&dc&ref=a9_asc_1 "Study guides") have been consistently ranking first on Amazon under multiple education categories. 
 
 ## Experience
-[CyberShield UNSW](https://www.challeng.unsw.edu.au/challeng-projects/cybershield "CyberShield")
-: **Assistant**, Feb - Apr 2021
+<!-- [CyberShield UNSW](https://www.challeng.unsw.edu.au/challeng-projects/cybershield "CyberShield")
+: **Assistant**, Feb - Apr 2021 -->
+
+[WiseTech Global](https://www.wisetechglobal.com/ "WiseTech Global")
+: **C# Back-End Software Engineer**, 2021
+: C#, .Net
 
 [Sydney Digital Currency Exchange](https://exchange.sdce.com.au/ "SDCE")
 : **Back-End Software Engineer Intern**, 2020/2021
@@ -27,8 +31,8 @@ On the side, I manage a high school education publisher [Catch Up With Top Achie
 : **Founder**, 2019 - Present
 
 ## News
-- 26/04/2021 I was accepted as a transfer Co-op scholar in Computer Science at UNSW. I will be starting my first work placement in June at WiseTech Global for 24 weeks.
-- 31/03/2021 I was accepted to the Taste of Research scholarship at UNSW, which consists of 60 full days of academic research. I will commence my first ever AI research project in June 2021 under Dr. Jiaojiao Jiang.
+- 26/04/2021 I was accepted as a transfer Co-op scholar in Computer Science at UNSW. I will start my first work placement in June at WiseTech Global for 24 weeks.
+<!-- - 31/03/2021 I was accepted to the Taste of Research scholarship at UNSW, which consists of 60 full days of academic research. I will commence my first ever AI research project in June 2021 under Dr. Jiaojiao Jiang. -->
 
 ## Media Appearances
 - Channel 7's Sunday Sunrise - [2020 HSC and Beyond](https://www.youtube.com/watch?v=dv0kiEdhMyc&t=3s) - 13/10/2020
