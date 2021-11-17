@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 ## Hello
-G'day, I'm currently a third-year underduate student at the University of New South Wales, studying Computer Science/
-Statistics. I'm broadly interested in Data Science, Deep Learning and Cyber Security. 
+G'day, I'm currently a third-year underduate student at the University of New South Wales, studying Computer Science. I'm broadly interested in Data Science, Deep Learning and Blockchain Technology. 
+
+Currently, I'm at Westpac's Data Discovery Lab working on various data intensive banking applications. Previously, I was a NLP engineer at WiseTech Global, focused on Part-of-Speech Tagging. 
+
+At university, I'm researching under Dr Jiaojiao Jiang on looking for ways to calculate node influence in multiplex networks. Truly ground breaking.
 
 <!-- I'm currently doing network security research at UNSW Cybershield under Prof. Vijay Sivaraman. -->
 
@@ -19,8 +22,15 @@ On the side, I manage a high school education publisher [Catch Up With Top Achie
 <!-- [CyberShield UNSW](https://www.challeng.unsw.edu.au/challeng-projects/cybershield "CyberShield")
 : **Assistant**, Feb - Apr 2021 -->
 
+[Westpac](https://www.westpac.com.au/ "Westpac")
+: **Data Discovery Lab**, November 2021 - present
+
 [WiseTech Global](https://www.wisetechglobal.com/ "WiseTech Global")
-: **C# Back-End Software Engineer**, 2021
+: **NLP Machinel Learning Enginner**, September - November 2021
+: Python, Keras, SQL
+
+[WiseTech Global](https://www.wisetechglobal.com/ "WiseTech Global")
+: **C# Back-End Software Engineer**, June - September 2021
 : C#, .Net
 
 [Sydney Digital Currency Exchange](https://exchange.sdce.com.au/ "SDCE")
@@ -31,7 +41,7 @@ On the side, I manage a high school education publisher [Catch Up With Top Achie
 : **Founder**, 2019 - Present
 
 ## News
-- 26/04/2021 I was accepted as a transfer Co-op scholar in Computer Science at UNSW. I will start my first work placement in June at WiseTech Global for 24 weeks.
+- 26/04/2021 I was accepted as a transfer Co-op scholar in Computer Science at UNSW. I started my first work placement in June at WiseTech Global for 24 weeks.
 <!-- - 31/03/2021 I was accepted to the Taste of Research scholarship at UNSW, which consists of 60 full days of academic research. I will commence my first ever AI research project in June 2021 under Dr. Jiaojiao Jiang. -->
 
 ## Media Appearances
