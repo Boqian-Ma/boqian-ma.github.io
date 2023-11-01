@@ -26,11 +26,15 @@ On the side, I manage a high school education publisher [Catch Up With Top Achie
 
 ## Publications
 
-{% include base_path %}
+**One-Phase Batch Update on Sparse Merkle Trees for Rollups**
+:B Ma, VN Pathak, L Liu, S Ruj
+:The 7th Symposium on Distributed Ledger Technology (SDLT 2023)
+:[[Arxiv](https://arxiv.org/abs/2310.13328)] [Code](https://github.com/Boqian-Ma/one-phase-batch-update-SMT)
 
-{% for post in site.publications reversed %}
-{% include archive-single.html %}
-{% endfor %}
+**Influence Robustness of Nodes in Multiplex Networks against Attacks**
+: Boqian Ma, Hao Ren, Jiaojiao Jiang
+: The 12th International Conference on Complex Networks and their Applications (CNA 2023)
+:[[Arxiv](https://arxiv.org/abs/2309.07617)] [Code](https://github.com/Boqian-Ma/MultiCoreRank)
 
 ## Engineering Experience
 
