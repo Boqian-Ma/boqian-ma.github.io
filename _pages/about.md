@@ -27,7 +27,7 @@ On the side, I manage a high school education publisher [Catch Up With Top Achie
 ## Publications
 
 **One-Phase Batch Update on Sparse Merkle Trees for Rollups**
-:B Ma, VN Pathak, L Liu, S Ruj
+:Boqian Ma, Vir Pathak, Lanping Liu, Sushmita Ruj
 :The 7th Symposium on Distributed Ledger Technology (SDLT 2023)
 :[[Arxiv](https://arxiv.org/abs/2310.13328)] [Code](https://github.com/Boqian-Ma/one-phase-batch-update-SMT)
 
