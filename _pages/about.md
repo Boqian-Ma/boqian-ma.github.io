@@ -10,27 +10,27 @@ redirect_from:
 
 ## Hello
 
-G'day, I'm currently in my final term of my CS honours degree at the [University of New South Wales](https://www.unsw.edu.au/) here in Sydney, Australia. While studying, I was supported by the UNSW [Co-op scholarship](https://www.co-op.unsw.edu.au/). I was extremely fortunate to complete my honors thesis on the topic of blockchain scaling under the advisory of [Dr Sushmita Ruj](https://research.unsw.edu.au/people/dr-sushmita-ruj-0), during which we published my first peer-reviewed paper.
+G'day, I'm currently in my final term of my CS honours degree at the [University of New South Wales](https://www.unsw.edu.au/) here in Sydney, Australia. I am interested in public blockchain research and applications and I have strong full-stack software engineering background.
+
+While studying, I was supported by the UNSW [Co-op scholarship](https://www.co-op.unsw.edu.au/). I was extremely fortunate to complete my honors thesis on the topic of blockchain scaling under the advisory of [Dr Sushmita Ruj](https://research.unsw.edu.au/people/dr-sushmita-ruj-0), during which we published my first peer-reviewed paper.
 
 Prior to thesis, I worked with [Dr Jiaojiao Jiang](https://research.unsw.edu.au/people/dr-jiaojiao-jiang) on classifying node importance on multiplex networks, during which we proposed a simple yet effective algorithm to capture a node's local and global importance. Our work was accepted for an oral presentation at [Complex Networks 2023](https://complexnetworks.org/).
 
-### Why Blockchain?
+<!-- ### Why Blockchain?
 
-Early on in my undergraduate studies, I interest leaned more towards machine learning and data science. Before it was time to select my thesis topic, I took a blockchain software course ([COMP6452](https://www.handbook.unsw.edu.au/undergraduate/courses/2024/COMP6452?year=2024)) that completely changed my outlook on the potential impact of blockchain technology. This was also when the first NFT bull run
+Early on in my undergraduate studies, I interests leaned more towards machine learning and data science. In 2021, at the height of the NFT bull market, I experience first hand the poor scalability issue of Ethereum by paying $90 gas fee on a $30 NFT ([view tx here](https://etherscan.io/tx/0x31fc76f46eee32d9ea8142faf1fe30414c04a5e96744dde8e8e96a8ce99290f5)). Overlooking the hype and the FUD during the bull market, I began learning about the fundamentals of blockchain.
 
-<!-- Currently, I'm at Westpac's Data Discovery Lab working on various data intensive banking applications. Previously, I was a NLP engineer at WiseTech Global, focused on Part-of-Speech Tagging. -->
-
-<!-- At university, I'm researching under Dr Jiaojiao Jiang on dynamic graph node classification using GNN. Truly ground breaking. -->
-
-<!-- I'm currently doing network security research at UNSW Cybershield under Prof. Vijay Sivaraman. -->
+Right before it was time to select my thesis topic, I took a blockchain software course ([COMP6452](https://www.handbook.unsw.edu.au/undergraduate/courses/2024/COMP6452?year=2024)) that completely changed my outlook on the potential impact of blockchain technology. I see blockchain as a tool to democratize global finance participation. -->
 
 On the side, I manage a high school education publisher [Catch Up With Top Achievers](http://Top-Achievers.com.au "Catch Up With Top Achievers"). Our [study guides](https://www.amazon.com.au/s?k=Tree+Niu+Bee+Pty.Ltd&i=digital-text&dc&ref=a9_asc_1 "Study guides") have been consistently ranking first on Amazon under multiple education categories.
 
 ## Publications
 
-| | |
-| John | 25 |
-| Jane | 28 |
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+{% include archive-single.html %}
+{% endfor %}
 
 ## Engineering Experience
 
