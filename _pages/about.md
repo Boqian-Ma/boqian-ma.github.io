@@ -28,10 +28,9 @@ On the side, I manage a high school education publisher [Catch Up With Top Achie
 
 ## Publications
 
-|      |     |          |
-| ---- | --- | -------- |
-| John | 25  | Engineer |
-| Jane | 28  | Doctor   |
+| | |
+| John | 25 |
+| Jane | 28 |
 
 ## Engineering Experience
 
