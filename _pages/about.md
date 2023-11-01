@@ -38,19 +38,23 @@ On the side, I manage a high school education publisher [Catch Up With Top Achie
 
 <table border="1">
     <tr>
-        <td>Row1, Col1</td>
+        <td><img src="images/obu.png" alt="obu" width="500" height="600"></td>
         <td>
         
-  <h4>One-Phase Batch Update on Sparse Merkle Trees for Rollups</h4>
-  <div><em>Boqian Ma, Vir Pathak, Lanping Liu, Sushmita Ruj</em></div>
-  <p><a href="https://symposium-dlt.org/">The 7th Symposium on Distributed Ledger Technology (SDLT 2023)</a></p>
-  <p><a href="https://arxiv.org/abs/2310.13328">Arxiv</a> <a href="https://github.com/Boqian-Ma/one-phase-batch-update-SMT">Code</a></p>
+  <h3><a href="https://arxiv.org/abs/2310.13328">One-Phase Batch Update on Sparse Merkle Trees for Rollups</a></h3>
+  <div><em>**Boqian Ma**, Vir Pathak, Lanping Liu, Sushmita Ruj</em></div>
+  <p><a href="https://symposium-dlt.org/">**SDLT 2023**: Symposium on Distributed Ledger Technology</a></p>
+  <p><a href="https://arxiv.org/pdf/2310.13328.pdf">[PDF]</a> <a href="https://github.com/Boqian-Ma/one-phase-batch-update-SMT">[Code]</a></p>
 
         </td>
     </tr>
     <tr>
         <td>Row2, Col1</td>
-        <td>Row2, Col2</td>
+        <h3><a href="https://arxiv.org/abs/2309.07617">Influence Robustness of Nodes in Multiplex Networks against Attacks</a></h3>
+
+<div><em>**Boqian Ma**, Hao Ren, Jiaojiao Jiang</em></div>
+<p><a href="https://complexnetworks.org/">**Complex Networks 2023**: International Conference on Complex Networks and their Applications</a></p>
+<p><a href="https://arxiv.org/pdf/2309.07617.pdf">[PDF]</a> <a href="https://github.com/Boqian-Ma/MultiCoreRank">[Code]</a></p>
     </tr>
 
 </table>
