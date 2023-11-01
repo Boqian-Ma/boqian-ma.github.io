@@ -80,7 +80,7 @@ analytics:
 author:
     name: "Adam Boqian Ma"
     avatar: "profile.png"
-    bio: "Honours CS @ UNSW"
+    bio: "Final-year Computer Science @ UNSW"
     location:
     employer:
     pubmed:
@@ -100,8 +100,8 @@ author:
     instagram:
     impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
     lastfm:
-    linkedin: https://www.linkedin.com/in/boqian-ma/
-    orcid: "0009-0007-5247-300"
+    linkedin: "boqian-ma"
+    orcid:
     pinterest:
     soundcloud:
     stackoverflow: # http://stackoverflow.com/users/123456/username
