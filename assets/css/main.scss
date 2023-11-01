@@ -45,3 +45,22 @@ th,
 td {
     border: none;
 }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+/* Styling the cells */
+td {
+    padding: 10px;
+}
+
+/* Setting the width for each column */
+.col1 {
+    width: 33.33%;
+}
+
+.col2 {
+    width: 66.67%;
+}

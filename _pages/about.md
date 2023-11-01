@@ -38,7 +38,7 @@ On the side, I manage a high school education publisher [Catch Up With Top Achie
 
 <table border="1">
     <tr>
-        <td><img src="images/obu.png" alt="obu" width="500" height="600"></td>
+        <td><img src="../images/obu.png" alt="obu" "></td>
         <td>
         
   <h3><a href="https://arxiv.org/abs/2310.13328">One-Phase Batch Update on Sparse Merkle Trees for Rollups</a></h3>
