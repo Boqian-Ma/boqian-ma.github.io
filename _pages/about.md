@@ -39,15 +39,21 @@ On the side, I manage a high school education publisher [Catch Up With Top Achie
 <table border="1">
     <tr>
         <td>Row1, Col1</td>
-        <td>Row1, Col2</td>
+        <td>
+        
+  <h4>One-Phase Batch Update on Sparse Merkle Trees for Rollups</h4>
+  <div><em>Boqian Ma, Vir Pathak, Lanping Liu, Sushmita Ruj</em></div>
+  <p><a href="https://symposium-dlt.org/">The 7th Symposium on Distributed Ledger Technology (SDLT 2023)</a></p>
+  <p><a href="https://arxiv.org/abs/2310.13328">Arxiv</a> <a href="https://github.com/Boqian-Ma/one-phase-batch-update-SMT">Code</a></p>
+
+        </td>
     </tr>
     <tr>
         <td>Row2, Col1</td>
         <td>Row2, Col2</td>
     </tr>
-</table>
 
-<a href="./product/download.html" target="_top">Download Page</a>
+</table>
 
 ## Engineering Experience
 
