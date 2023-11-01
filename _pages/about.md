@@ -36,6 +36,17 @@ On the side, I manage a high school education publisher [Catch Up With Top Achie
 : [The 12th International Conference on Complex Networks and their Applications (CNA 2023)](https://complexnetworks.org/)
 : [[Arxiv](https://arxiv.org/abs/2309.07617)] [Code](https://github.com/Boqian-Ma/MultiCoreRank)
 
+<table border="1">
+    <tr>
+        <td>Row1, Col1</td>
+        <td>Row1, Col2</td>
+    </tr>
+    <tr>
+        <td>Row2, Col1</td>
+        <td>Row2, Col2</td>
+    </tr>
+</table>
+
 <a href="./product/download.html" target="_top">Download Page</a>
 
 ## Engineering Experience
