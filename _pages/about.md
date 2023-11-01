@@ -32,8 +32,9 @@ On the side, I manage a high school education publisher [Catch Up With Top Achie
         <td class="col2">
         
             <h3><a href="https://arxiv.org/abs/2310.13328">One-Phase Batch Update on Sparse Merkle Trees for Rollups</a></h3>
-            <div><em>Boqian Ma, Vir Pathak, Lanping Liu, Sushmita Ruj</em></div>
-            <div>SDLT 2023: Symposium on Distributed Ledger Technology</div>
+            <div><em><u>Boqian Ma<\u>, Vir Pathak, Lanping Liu, Sushmita Ruj</em></div>
+            <div><b>SDLT 2023</b>: Symposium on Distributed Ledger Technology</div>
+            <div>><b>Oral Presentation</b></div>
             <div><a href="https://arxiv.org/pdf/2310.13328.pdf">[PDF]</a> <a href="https://github.com/Boqian-Ma/one-phase-batch-update-SMT">[Code]</a></div>
         </td>
     </tr>
@@ -42,8 +43,9 @@ On the side, I manage a high school education publisher [Catch Up With Top Achie
 
         <td class="col2">
               <h3><a href="https://arxiv.org/abs/2309.07617">Influence Robustness of Nodes in Multiplex Networks against Attacks</a></h3>
-              <div><em>Boqian Ma, Hao Ren, Jiaojiao Jiang</em></div>
-              <div>Complex Networks 2023**: International Conference on Complex Networks and their Applications</p>
+              <div><em><u>Boqian Ma<\u>, Hao Ren, Jiaojiao Jiang</em></div>
+              <div><b>Complex Networks 2023<\b>**: International Conference on Complex Networks and their Applications</p>
+              <div><b>Oral Presentation</b></div>
               <div><a href="https://arxiv.org/pdf/2309.07617.pdf">[PDF]</a> <a href="https://github.com/Boqian-Ma/MultiCoreRank">[Code]</a></div>
 
     </td>
