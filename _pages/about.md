@@ -10,11 +10,17 @@ redirect_from:
 
 ## Hello
 
-G'day, I'm currently a forth-year underduate student at the University of New South Wales, studying Computer Science. I'm broadly interested in Machine Learning and Blockchain Technologies.
+G'day, I'm currently in my final term of my CS honours degree at the [University of New South Wales](https://www.unsw.edu.au/) here in Sydney, Australia. While studying, I was supported by the UNSW [Co-op scholarship](https://www.co-op.unsw.edu.au/). I was extremely fortunate to complete my honors thesis on the topic of blockchain scaling under the advisory of [Dr Sushmita Ruj](https://research.unsw.edu.au/people/dr-sushmita-ruj-0), during which we published my first peer-reviewed paper.
+
+Prior to thesis, I worked with [Dr Jiaojiao Jiang](https://research.unsw.edu.au/people/dr-jiaojiao-jiang) on classifying node importance on multiplex networks, during which we proposed a simple yet effective algorithm to capture a node's local and global importance. Our work was accepted for an oral presentation at [Complex Networks 2023](https://complexnetworks.org/).
+
+### Why Blockchain?
+
+Early on in my undergraduate studies, I interest leaned more towards machine learning and data science. Before it was time to select my thesis topic, I took a blockchain software course ([COMP6452](https://www.handbook.unsw.edu.au/undergraduate/courses/2024/COMP6452?year=2024)) that completely changed my outlook on the potential impact of blockchain technology. This was also when the first NFT bull run
 
 <!-- Currently, I'm at Westpac's Data Discovery Lab working on various data intensive banking applications. Previously, I was a NLP engineer at WiseTech Global, focused on Part-of-Speech Tagging. -->
 
-At university, I'm researching under Dr Jiaojiao Jiang on dynamic graph node classification using GNN. Truly ground breaking.
+<!-- At university, I'm researching under Dr Jiaojiao Jiang on dynamic graph node classification using GNN. Truly ground breaking. -->
 
 <!-- I'm currently doing network security research at UNSW Cybershield under Prof. Vijay Sivaraman. -->
 
@@ -22,10 +28,12 @@ On the side, I manage a high school education publisher [Catch Up With Top Achie
 
 ## Publications
 
-## Experience
+|      |     |          |
+| ---- | --- | -------- |
+| John | 25  | Engineer |
+| Jane | 28  | Doctor   |
 
-<!-- [CyberShield UNSW](https://www.challeng.unsw.edu.au/challeng-projects/cybershield "CyberShield")
-: **Assistant**, Feb - Apr 2021 -->
+## Engineering Experience
 
 [WiseTech Global](https://www.wisetechglobal.com/ "WiseTech Global")
 : **Content Service Team**, November 2022 - March 2023 (Left to focus on Honours year research project)
@@ -63,7 +71,7 @@ On the side, I manage a high school education publisher [Catch Up With Top Achie
 
 ## About Me
 
-Outside of work and university, I like to play golf and basketball. I am a member at the St. Michael's Golf Club here in Sydney, Australia. My current official [handicap](https://www.penguin.com.au/books/zero-to-one-9780753555200) is 11.
+Outside of work and university, I like to play golf and basketball. I am a member at the St. Michael's Golf Club here in Sydney, Australia. My current official [handicap](https://www.golf.org.au/handicap/?golfLinkNo=2012203208) is 11.
 
 <!-- ## Reading List
 
