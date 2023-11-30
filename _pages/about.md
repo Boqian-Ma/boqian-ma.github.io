@@ -4,8 +4,8 @@ title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from:
-    - /about/
-    - /about.html
+  - /about/
+  - /about.html
 ---
 
 ## Hello
@@ -35,7 +35,9 @@ On the side, I manage a high school education publisher [Catch Up With Top Achie
             <div><em><u>Boqian Ma</u>, Vir Pathak, Lanping Liu, Sushmita Ruj</em></div>
             <div><b>SDLT 2023</b>: Symposium on Distributed Ledger Technology</div>
             <div><b>Oral Presentation</b></div>
-            <div><a href="https://arxiv.org/pdf/2310.13328.pdf">[PDF]</a> <a href="https://github.com/Boqian-Ma/one-phase-batch-update-SMT">[Code]</a>            
+            <div><a href="https://arxiv.org/pdf/2310.13328.pdf">[PDF]</a> 
+            <a href="https://github.com/Boqian-Ma/one-phase-batch-update-SMT">[Code]</a>
+            <a href="https://docs.google.com/presentation/d/14RU-vMSlMvcA7amA1L1a-9ZtluWJSRdk01Prj-eezYg/edit?usp=sharing">[Slides]</a>             
             </div>
         </td>
     </tr>
@@ -50,7 +52,7 @@ On the side, I manage a high school education publisher [Catch Up With Top Achie
               <div><a href="https://arxiv.org/pdf/2309.07617.pdf">[PDF]</a> <a href="https://github.com/Boqian-Ma/MultiCoreRank">[Code]</a>
                           <a href="https://www.youtube.com/watch?v=y7TTTPgHRDY">[Oral]</a>
 
-              
+
               </div>
 
     </td>
@@ -80,19 +82,19 @@ On the side, I manage a high school education publisher [Catch Up With Top Achie
 
 ## News
 
--   10/2023: Our paper "Influence Robustness of Nodes in Multiplex Networks against Attacks" was accepted for publication and oral presentation at [Complex Networks 2023](https://complexnetworks.org/).
--   09/2023: Our paper "One-Phase Batch Update on Sparse Merkle Trees for Rollups" was accepted for publication at [SDLT23](https://symposium-dlt.org/). This paper spawned from my undergraduate thesis supervised by Dr Sushmita Ruj.
--   09/2022: The UNSW golf team traveled to Perth, Australia to compete in the UniSport Nationals golf tournament. We brought home 15 individual medals and a second-place trophy for the team event.
--   09/2022: I started my honours year at UNSW, my research topic will be scaling the blockchain.
--   12/2021: I joined Westpac Group as a Data Science intern, focusing on writing automated ML model release pipeline.
--   05/2021: I joined WiseTech Global as a Software Engineering intern, building software products to enhance the global supply chain.
--   26/04/2021 I was accepted as a transfer Co-op scholar in Computer Science at UNSW. I started my first work placement in June at WiseTech Global for 24 weeks.
+- 10/2023: Our paper "Influence Robustness of Nodes in Multiplex Networks against Attacks" was accepted for publication and oral presentation at [Complex Networks 2023](https://complexnetworks.org/).
+- 09/2023: Our paper "One-Phase Batch Update on Sparse Merkle Trees for Rollups" was accepted for publication at [SDLT23](https://symposium-dlt.org/). This paper spawned from my undergraduate thesis supervised by Dr Sushmita Ruj.
+- 09/2022: The UNSW golf team traveled to Perth, Australia to compete in the UniSport Nationals golf tournament. We brought home 15 individual medals and a second-place trophy for the team event.
+- 09/2022: I started my honours year at UNSW, my research topic will be scaling the blockchain.
+- 12/2021: I joined Westpac Group as a Data Science intern, focusing on writing automated ML model release pipeline.
+- 05/2021: I joined WiseTech Global as a Software Engineering intern, building software products to enhance the global supply chain.
+- 26/04/2021 I was accepted as a transfer Co-op scholar in Computer Science at UNSW. I started my first work placement in June at WiseTech Global for 24 weeks.
 
 ## Media
 
--   Channel 7's Sunday Sunrise - [2020 HSC and Beyond](https://www.youtube.com/watch?v=dv0kiEdhMyc&t=3s) - 13/10/2020
--   Phoenix TV South Pacific & Australia - [澳华人后代出书传授高考心得引关注](https://www.youtube.com/watch?v=woUTLiO1TIs) - 07/11/2020
--   The Sydney Morning Herald - ['Delete your apps': How to blitz the HSC, by those who did](https://www.smh.com.au/education/delete-your-apps-how-to-blitz-the-hsc-by-those-who-did-20190829-p52m0t.html) - 01/09/2019
+- Channel 7's Sunday Sunrise - [2020 HSC and Beyond](https://www.youtube.com/watch?v=dv0kiEdhMyc&t=3s) - 13/10/2020
+- Phoenix TV South Pacific & Australia - [澳华人后代出书传授高考心得引关注](https://www.youtube.com/watch?v=woUTLiO1TIs) - 07/11/2020
+- The Sydney Morning Herald - ['Delete your apps': How to blitz the HSC, by those who did](https://www.smh.com.au/education/delete-your-apps-how-to-blitz-the-hsc-by-those-who-did-20190829-p52m0t.html) - 01/09/2019
 
 ## About Me
 
