@@ -115,5 +115,5 @@ Outside of work and university, I like to play golf and basketball. I am a membe
 4. [The Lean Startup by Eric Ries](http://theleanstartup.com/)
 5. [Indistractable by Nir Eyal](https://www.nirandfar.com/indistractable/)
    ...
-   <br>
-   <script type="text/javascript" src="https://free-hit-counters.net/count/8hbb"></script>
+   <!-- <br> -->
+   <!-- <script type="text/javascript" src="https://free-hit-counters.net/count/8hbb"></script> -->
