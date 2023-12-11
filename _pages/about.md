@@ -100,12 +100,20 @@ On the side, I manage a high school education publisher [Catch Up With Top Achie
 
 Outside of work and university, I like to play golf and basketball. I am a member at the St. Michael's Golf Club here in Sydney, Australia. My current official [handicap](https://www.golf.org.au/handicap/?golfLinkNo=2012203208) is 11.
 
-<!-- ## Reading List
+## Reading List
+
+### Currently reading
+
+1. [Thinking Fast and Slow by Daniel Kahneman](https://www.penguin.com.au/books/thinking-fast-and-slow-9780141033570)
+2. [Naked Money by Charles Wheelan ](https://www.amazon.com/Naked-Money-Revealing-Financial-System/dp/0393353737)
+
+### Recently Finished
 
 1. [Zero to One by Peter Thiel](https://www.penguin.com.au/books/zero-to-one-9780753555200)
 2. [Rich Dad Poor Dad by Robert Kiyosaki](https://www.richdad.com/)
 3. [12 Rules of Life by Jordan Peterson](https://www.jordanbpeterson.com/12-rules-for-life/)
 4. [The Lean Startup by Eric Ries](http://theleanstartup.com/)
 5. [Indistractable by Nir Eyal](https://www.nirandfar.com/indistractable/)
-6. [Thinking Fast and Slow by Daniel Kahneman](https://www.penguin.com.au/books/thinking-fast-and-slow-9780141033570)
-   etc... -->
+   ...
+   <br>
+   <script type="text/javascript" src="https://free-hit-counters.net/count/8hbb"></script>
