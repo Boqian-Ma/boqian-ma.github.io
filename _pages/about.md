@@ -82,6 +82,7 @@ On the side, I managed (2019-2023) a high school education publisher [Catch Up W
 
 ## News
 
+- 01/2024: I have officially graduated from UNSW. The best is yet to come.
 - 10/2023: Our paper "Influence Robustness of Nodes in Multiplex Networks against Attacks" was accepted for publication and oral presentation at [Complex Networks 2023](https://complexnetworks.org/).
 - 09/2023: Our paper "One-Phase Batch Update on Sparse Merkle Trees for Rollups" was accepted for publication at [SDLT23](https://symposium-dlt.org/). This paper spawned from my undergraduate thesis supervised by Dr Sushmita Ruj.
 - 09/2022: The UNSW golf team traveled to Perth, Australia to compete in the UniSport Nationals golf tournament. We brought home 15 individual medals and a second-place trophy for the team event.
