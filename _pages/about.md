@@ -10,11 +10,11 @@ redirect_from:
 
 ## Hello
 
-G'day, I'm currently in my final term of my CS honours degree at the [University of New South Wales](https://www.unsw.edu.au/) here in Sydney, Australia. I am interested in public blockchain research and applications and I have strong full-stack software engineering background.
-
-While studying, I was supported by the UNSW [Co-op scholarship](https://www.co-op.unsw.edu.au/). I was extremely fortunate to complete my honors thesis on the topic of blockchain scaling under the advisory of [Dr Sushmita Ruj](https://research.unsw.edu.au/people/dr-sushmita-ruj-0), during which we published my first peer-reviewed paper.
+G'day, I recently finished my undergraduate degree with honours in computer science at the [University of New South Wales](https://www.unsw.edu.au/) here in Sydney, Australia. While studying, I was supported by the UNSW [Co-op scholarship](https://www.co-op.unsw.edu.au/). I was extremely fortunate to complete my honors thesis on the topic of blockchain scaling under the advisory of [Dr Sushmita Ruj](https://research.unsw.edu.au/people/dr-sushmita-ruj-0), during which we published my first peer-reviewed paper.
 
 Prior to thesis, I worked with [Dr Jiaojiao Jiang](https://research.unsw.edu.au/people/dr-jiaojiao-jiang) on classifying node importance on multiplex networks, during which we proposed a simple yet effective algorithm to capture a node's local and global importance. Our work was accepted for an oral presentation at [Complex Networks 2023](https://complexnetworks.org/).
+
+Outside of university, I've been working as a software engineer in various teams and places.
 
 <!-- ### Why Blockchain?
 
@@ -22,7 +22,7 @@ Early on in my undergraduate studies, I interests leaned more towards machine le
 
 Right before it was time to select my thesis topic, I took a blockchain software course ([COMP6452](https://www.handbook.unsw.edu.au/undergraduate/courses/2024/COMP6452?year=2024)) that completely changed my outlook on the potential impact of blockchain technology. I see blockchain as a tool to democratize global finance participation. -->
 
-On the side, I manage a high school education publisher [Catch Up With Top Achievers](http://Top-Achievers.com.au "Catch Up With Top Achievers"). Our [study guides](https://www.amazon.com.au/s?k=Tree+Niu+Bee+Pty.Ltd&i=digital-text&dc&ref=a9_asc_1 "Study guides") have been consistently ranking first on Amazon under multiple education categories.
+On the side, I managed (2019-2023) a high school education publisher [Catch Up With Top Achievers](http://Top-Achievers.com.au "Catch Up With Top Achievers"). Our [study guides](https://www.amazon.com.au/s?k=Tree+Niu+Bee+Pty.Ltd&i=digital-text&dc&ref=a9_asc_1 "Study guides") have been consistently ranking first on Amazon under multiple education categories.
 
 ## Publications
 
@@ -60,7 +60,7 @@ On the side, I manage a high school education publisher [Catch Up With Top Achie
 
 </table>
 
-## Engineering Experience
+## Work Experience
 
 [WiseTech Global](https://www.wisetechglobal.com/ "WiseTech Global")
 : **Content Service Team**, November 2022 - March 2023 (Left to focus on Honours year research project)
@@ -98,7 +98,7 @@ On the side, I manage a high school education publisher [Catch Up With Top Achie
 
 ## About Me
 
-Outside of work and university, I like to play golf and basketball. I am a member at the St. Michael's Golf Club here in Sydney, Australia. My current official [handicap](https://www.golf.org.au/handicap/?golfLinkNo=2012203208) is 11.
+Outside of work and university, I like to play golf and [basketball](https://www.instagram.com/p/CqcAyGOPRsA/). I am a member at the St. Michael's Golf Club here in Sydney, Australia. My current official [handicap](https://www.golf.org.au/handicap/?golfLinkNo=2012203208) is 11. Occasionally, I enjoy low-stake cash and tournament poker.
 
 ## Reading List
 
