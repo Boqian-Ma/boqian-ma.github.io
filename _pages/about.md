@@ -10,7 +10,7 @@ redirect_from:
 
 ## Hello
 
-G'day, I recently finished my undergraduate degree with honours in computer science at the [University of New South Wales](https://www.unsw.edu.au/) here in Sydney, Australia. While studying, I was supported by the UNSW [Co-op scholarship](https://www.co-op.unsw.edu.au/). I was extremely fortunate to complete my honors thesis on the topic of blockchain scaling under the advisory of [Dr Sushmita Ruj](https://research.unsw.edu.au/people/dr-sushmita-ruj-0), during which we published my first peer-reviewed paper.
+G'day, I recently finished my undergraduate degree with First Honours in computer science at the [University of New South Wales](https://www.unsw.edu.au/) here in Sydney, Australia. While studying, I was supported by the UNSW [Co-op scholarship](https://www.co-op.unsw.edu.au/). I was extremely fortunate to complete my honors thesis on the topic of blockchain scaling under the advisory of [Dr Sushmita Ruj](https://research.unsw.edu.au/people/dr-sushmita-ruj-0), during which we published my first peer-reviewed paper.
 
 Prior to thesis, I worked with [Dr Jiaojiao Jiang](https://research.unsw.edu.au/people/dr-jiaojiao-jiang) on classifying node importance on multiplex networks, during which we proposed a simple yet effective algorithm to capture a node's local and global importance. Our work was accepted for an oral presentation at [Complex Networks 2023](https://complexnetworks.org/).
 
