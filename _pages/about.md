@@ -61,6 +61,7 @@ On the side, I managed (2019-2023) a high school education publisher [Catch Up W
 </table>
 
 ## Work Experience
+[Stealth](https://www.heffron.ai/ "Heffron AI")
 
 [WiseTech Global](https://www.wisetechglobal.com/ "WiseTech Global")
 : **Content Service Team**, November 2022 - March 2023 (Left to focus on Honours year research project)
