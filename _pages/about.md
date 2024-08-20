@@ -11,6 +11,7 @@ redirect_from:
 ## Hello
 
 G'day, 
+
 Currently, I'm working on [Heffron AI](https://www.heffron.ai/ "Heffron AI"). We build conversational Voice AI for voicemail. Time is money, therefore our mission is to help individuals and businesses to turn missed calls into revenue.
 
 In December 2023, I finished my undergraduate degree with First Honours in computer science at the [University of New South Wales](https://www.unsw.edu.au/) here in Sydney, Australia. While studying, I was supported by the UNSW [Co-op scholarship](https://www.co-op.unsw.edu.au/). I was extremely fortunate to complete my honors thesis on the topic of blockchain scaling algorithms under the advisory of [Dr Sushmita Ruj](https://research.unsw.edu.au/people/dr-sushmita-ruj-0), during which we published my first peer-reviewed paper.
