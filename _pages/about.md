@@ -12,7 +12,7 @@ redirect_from:
 
 G'day, 
 
-Currently, I'm working on [Heffron AI](https://www.heffron.ai/ "Heffron AI"). We build conversational Voice AI for voicemail. Time is money, therefore our mission is to help individuals and businesses to turn missed calls into revenue.
+Currently, I'm working on [Voqo AI](https://www.voqo.ai/ "Voqo AI"). We build conversational Voice AI for voicemail. Time is money, therefore our mission is to help individuals and businesses to turn missed calls into revenue.
 
 In December 2023, I finished my undergraduate degree with First Honours in computer science at the [University of New South Wales](https://www.unsw.edu.au/) here in Sydney, Australia. While studying, I was supported by the UNSW [Co-op scholarship](https://www.co-op.unsw.edu.au/). I was extremely fortunate to complete my honors thesis on the topic of blockchain scaling algorithms under the advisory of [Dr Sushmita Ruj](https://research.unsw.edu.au/people/dr-sushmita-ruj-0), during which we published my first peer-reviewed paper.
 
@@ -59,8 +59,9 @@ On the side, I managed (2019-2023) a high school education publisher [Catch Up W
 </table>
 
 ## Work Experience
-[Heffron AI](https://www.heffron.ai/ "Heffron AI")
-: **Co-Founder / CTO**, March 2024 - Present
+[Voqo AI](https://www.voqo.ai/ "Voqo AI")
+: **Co-Founder / CEO**, February 2025 - Present
+: **Co-Founder / CTO**, March 2024 - February 2025
 
 [WiseTech Global](https://www.wisetechglobal.com/ "WiseTech Global")
 : **Content Service Team**, November 2022 - March 2023 (Left to focus on Honours year research project)
@@ -82,7 +83,7 @@ On the side, I managed (2019-2023) a high school education publisher [Catch Up W
 
 ## News
 
-- 08/2024: We launched [Heffron.ai](https://heffron.ai/)
+- 08/2024: We launched [Voqo.ai](https://voqo.ai/)
 - 01/2024: I have officially graduated from UNSW. The best is yet to come.
 - 10/2023: Our paper "Influence Robustness of Nodes in Multiplex Networks against Attacks" was accepted for publication and oral presentation at [Complex Networks 2023](https://complexnetworks.org/).
 - 09/2023: Our paper "One-Phase Batch Update on Sparse Merkle Trees for Rollups" was accepted for publication at [SDLT23](https://symposium-dlt.org/). This paper spawned from my undergraduate thesis supervised by Dr Sushmita Ruj.
