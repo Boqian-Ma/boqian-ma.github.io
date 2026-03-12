@@ -2,6 +2,10 @@
 title: "The Hidden Shift in Software: LLM Apps Don't Just Assist, They Judge"
 date: 2026-03-12
 permalink: /posts/2026/03/llm-apps-dont-just-assist-they-judge/
+excerpt: "LLM-integrated applications are fundamentally more opinionated than traditional SaaS — and that changes everything about how AI products should be built and evaluated."
+toc: true
+toc_label: "Contents"
+toc_sticky: true
 tags:
   - AI
   - LLM
@@ -11,6 +15,7 @@ tags:
 ---
 
 *Why LLM-native software is inherently more opinionated*
+{: .page__lead }
 
 For the last two decades, most software has followed a familiar model: give users a structured system, expose a set of configurable features, and let them decide how to use it.
 
@@ -30,7 +35,6 @@ This is not a minor product detail. It is one of the deepest shifts in software 
 
 And it has major implications for how AI products should be built, sold, evaluated, and trusted.
 
-***
 
 ### Traditional SaaS is mostly a system of user-expressed intent
 
@@ -51,7 +55,6 @@ Traditional SaaS can be highly configurable, but the burden of judgment still si
 
 That is why classic software products often win by being horizontal, flexible, and extensible. They are designed to support many workflows because they do not deeply commit to one interpretation of what the user is trying to do.
 
-***
 
 ### LLM-native apps do more than execute commands
 
@@ -86,7 +89,6 @@ The moment software starts doing that, it stops being neutral infrastructure.
 
 **It becomes opinionated.**
 
-***
 
 ### LLM applications are opinionated because intelligence requires defaults
 
@@ -124,7 +126,6 @@ The model is not the product.
 
 **The product is the set of opinions wrapped around the model.**
 
-***
 
 ### Traditional SaaS sells control. AI-native apps sell outcomes.
 
@@ -161,7 +162,6 @@ Because the more an application promises outcomes, the more the user has to trus
 
 And trust is where opinionated design becomes unavoidable.
 
-***
 
 ### In AI products, "taste" becomes part of the software
 
@@ -192,7 +192,6 @@ A mediocre AI app collapses much faster, because weak judgment is visible immedi
 
 It shows up in every answer, every draft, every recommendation, every action.
 
-***
 
 ### More intelligence means less neutrality
 
@@ -214,7 +213,6 @@ They do not just add AI to generic workflows. They encode a worldview about how 
 
 **The strongest products will not be the most general ones. They will be the ones with the clearest and most correct opinions for a particular job.**
 
-***
 
 ### The hidden challenge: users say they want flexibility, but often want judgment
 
@@ -249,7 +247,6 @@ The winning AI products will likely find a new balance: **strong default opinion
 
 Not infinite flexibility. Not rigid automation. But guided intelligence.
 
-***
 
 ### Why this matters for builders
 
@@ -287,7 +284,6 @@ In the SaaS era, product teams could sometimes hide behind flexibility.
 
 **In the AI era, they must pick a side.**
 
-***
 
 ### Why this matters for customers
 
@@ -314,7 +310,6 @@ It is also: **"What worldview is this software asking me to adopt?"**
 
 That is a very different procurement question.
 
-***
 
 ### The future of software may look more like hiring than buying tools
 
@@ -343,7 +338,6 @@ They are not just systems of record.
 
 And systems of interpretation are never neutral.
 
-***
 
 ### Final thought
 
