@@ -38,14 +38,7 @@ And it has major implications for how AI products should be built, sold, evaluat
 
 ### Traditional SaaS is mostly a system of user-expressed intent
 
-Traditional SaaS waits for explicit input.
-
-The user chooses a pipeline stage.
-The user fills in the form.
-The user writes the email.
-The user creates the automation.
-The user configures the dashboard.
-The user decides what happens next.
+Traditional SaaS waits for explicit input. The user chooses a pipeline stage, fills in the form, writes the email, creates the automation, configures the dashboard, and decides what happens next. Every action traces back to a deliberate human choice.
 
 Even when traditional SaaS is powerful, it tends to be passive. It is usually a tool for expressing user intent, not generating it.
 
@@ -64,30 +57,13 @@ It starts converting ambiguous human input into structured output.
 
 That sounds simple, but it is profound.
 
-A user says:
-* "Follow up with the warm leads from last week."
-* "Summarise what matters in this customer thread."
-* "Draft a reply that sounds firm but warm."
-* "Handle this inquiry like our best sales rep would."
-* "Figure out what I need to do next."
+A user says: "Follow up with the warm leads from last week." Or: "Summarise what matters in this customer thread." Or: "Draft a reply that sounds firm but warm." Or: "Handle this inquiry like our best sales rep would."
 
 These are not explicit software instructions in the traditional sense. They are fuzzy, contextual, incomplete, and subjective.
 
-For the application to respond well, it must make judgments.
+For the application to respond well, it must make judgments: what the user likely meant, which context matters, what should be ignored, what good output looks like, what tone is appropriate, what action is safe, and what "done" actually means.
 
-It must decide:
-* what the user likely meant
-* which context matters
-* what should be ignored
-* what good output looks like
-* what trade-offs to make
-* what tone is appropriate
-* what action is safe
-* what "done" means
-
-The moment software starts doing that, it stops being neutral infrastructure.
-
-**It becomes opinionated.**
+The moment software starts doing that, it stops being neutral infrastructure. It becomes opinionated.
 
 
 ### LLM applications are opinionated because intelligence requires defaults
@@ -98,27 +74,11 @@ An AI-enabled app cannot rely on configuration alone, because intelligence is no
 
 And judgment requires embedded assumptions.
 
-For an AI app to produce consistently useful output, the builder must decide things like:
-* what quality looks like
-* what the assistant should optimise for
-* how proactive it should be
-* when it should ask vs act
-* how much risk it should take
-* what tone or brand style it should follow
-* when brevity is better than completeness
-* how much autonomy users actually want
-* what errors are acceptable and which are catastrophic
+For an AI app to produce consistently useful output, the builder must decide what quality looks like, what the assistant should optimise for, how proactive it should be, when it should ask versus act, how much risk it should take, what tone reflects the brand, and what errors are acceptable versus catastrophic.
 
 This means every serious AI product contains a hidden philosophy.
 
-Even if the interface looks simple, beneath it is a stack of opinions:
-* opinions about workflow
-* opinions about language
-* opinions about trust
-* opinions about decision-making
-* opinions about what humans are bad at
-* opinions about what should be automated
-* opinions about what should remain manual
+Even if the interface looks simple, beneath it is a stack of opinions: about workflow, language, trust, decision-making, what humans are bad at, what should be automated, and what should remain manual.
 
 This is why two AI products built for the same category can feel radically different even if they use similar underlying models.
 
@@ -131,24 +91,9 @@ The model is not the product.
 
 This is one of the clearest differences.
 
-Traditional SaaS often sells empowerment through control:
-* configure your workflow
-* customise your dashboard
-* build your pipeline
-* create your fields
-* design your automation
-* set your rules
+Traditional SaaS often sells empowerment through control: configure your workflow, customise your dashboard, build your pipeline, create your fields, design your automation, set your rules. The product's value comes from giving users tools to create their own system.
 
-The product's value comes from giving users tools to create their own system.
-
-AI-native apps tend to sell something else:
-* get to inbox zero
-* qualify leads faster
-* respond like your best rep
-* resolve tickets automatically
-* generate the first draft
-* extract insights from chaos
-* turn conversations into action
+AI-native apps tend to sell something else: get to inbox zero, qualify leads faster, respond like your best rep, resolve tickets automatically, generate the first draft, extract insights from chaos, turn conversations into action.
 
 The value is less about control and more about compression of effort.
 
@@ -169,14 +114,7 @@ In traditional SaaS, good design mattered, but product taste mostly lived in UX,
 
 In AI products, taste moves much deeper into the product.
 
-Now taste affects:
-* how an email draft sounds
-* how a summary is prioritised
-* what information is surfaced first
-* whether the assistant feels too robotic or too familiar
-* how assertive the system is in recommending next steps
-* whether outputs are generic or commercially useful
-* whether automation feels magical or reckless
+Now taste affects how an email draft sounds, how a summary is prioritised, what information is surfaced first, whether the assistant feels too robotic or too familiar, how assertive the system is in recommending next steps, and whether automation feels magical or reckless.
 
 This is a big shift.
 
@@ -218,24 +156,11 @@ They do not just add AI to generic workflows. They encode a worldview about how 
 
 Many software buyers have been trained by the SaaS era to ask for configurability.
 
-They ask for:
-* more toggles
-* more custom rules
-* more templates
-* more settings
-* more control
+They ask for more toggles, more custom rules, more templates, more settings, more control.
 
 And some of that still matters.
 
-But in practice, many users do not actually want infinite flexibility. They want confidence that the software knows what it is doing.
-
-They want:
-* sensible defaults
-* strong recommendations
-* fewer decisions
-* less setup
-* faster time to value
-* outputs that already feel right
+But in practice, many users do not actually want infinite flexibility. They want confidence that the software knows what it is doing. They want sensible defaults, strong recommendations, fewer decisions, less setup, faster time to value, and outputs that already feel right.
 
 This creates tension inside AI product design.
 
@@ -243,7 +168,7 @@ If you make the product too opinionated, users may feel constrained or mistrust 
 
 If you make it too configurable, you push the burden back onto the user and lose the main advantage of AI.
 
-The winning AI products will likely find a new balance: **strong default opinions, with selective override points.**
+The winning AI products will likely find a new balance: strong default opinions, with selective override points.
 
 Not infinite flexibility. Not rigid automation. But guided intelligence.
 
@@ -252,12 +177,7 @@ Not infinite flexibility. Not rigid automation. But guided intelligence.
 
 Many teams are currently shipping "AI features" into existing SaaS products without acknowledging this underlying shift.
 
-They add:
-* an AI button
-* a text box
-* a summary feature
-* a draft reply feature
-* a chatbot layer
+They add an AI button, a text box, a summary feature, a draft reply feature, a chatbot layer.
 
 But they still think like SaaS builders.
 
@@ -267,22 +187,13 @@ That is often not enough.
 
 Because once AI enters the product, the real design challenge is not just feature placement. It is **judgment design**.
 
-Builders now have to answer harder questions:
-* What exactly should the AI optimise for?
-* What is our philosophy on autonomy?
-* What should the assistant do without being asked?
-* What quality bar must outputs meet?
-* What tone reflects our brand and our users' brand?
-* Where should the AI be decisive?
-* Where should it be deferential?
-* What failure mode would destroy trust fastest?
-* What part of this workflow actually deserves intelligence?
+Builders now have to answer harder questions: What exactly should the AI optimise for? What is our philosophy on autonomy? What should the assistant do without being asked? What quality bar must outputs meet? Where should it be decisive, and where deferential? What failure mode would destroy trust fastest?
 
 These are not secondary details. They are the product.
 
 In the SaaS era, product teams could sometimes hide behind flexibility.
 
-**In the AI era, they must pick a side.**
+In the AI era, they must pick a side.
 
 
 ### Why this matters for customers
@@ -293,20 +204,11 @@ The old SaaS buying checklist focused on integrations, permissions, reporting, p
 
 Those still matter.
 
-But with AI products, buyers should also ask:
-* What judgments is this product making on my behalf?
-* Are those judgments good?
-* Are they consistent?
-* Are they aligned with my business?
-* Can I inspect or shape them?
-* What happens when the AI is uncertain?
-* Does the product preserve trust when it fails?
-* Does it make my team sharper or lazier?
-* Is the product encoding best practice, or just producing plausible noise?
+But with AI products, buyers should also ask: What judgments is this product making on my behalf? Are those judgments good, consistent, and aligned with my business? Can I inspect or shape them? What happens when the AI is uncertain? Does it preserve trust when it fails? Does it make my team sharper or lazier? Is it encoding best practice, or just producing plausible noise?
 
 In other words, the question is no longer just "what features does this software have?"
 
-It is also: **"What worldview is this software asking me to adopt?"**
+It is also: "What worldview is this software asking me to adopt?"
 
 That is a very different procurement question.
 
@@ -321,25 +223,18 @@ And when you hire a teammate, you do not only care about capability. You care ab
 
 That is exactly where AI applications are heading.
 
-We will increasingly evaluate software not just on features, but on qualities that used to belong to people:
-* Does it show good judgment?
-* Does it communicate clearly?
-* Does it understand context?
-* Does it escalate appropriately?
-* Does it act with restraint?
-* Does it improve with feedback?
-* Does it represent us well?
+We will increasingly evaluate software not just on features, but on qualities that used to belong to people: Does it show good judgment? Does it communicate clearly? Does it understand context? Does it escalate appropriately? Does it act with restraint? Does it improve with feedback? Does it represent us well?
 
 This is why AI products feel more personal, more powerful, and more risky than traditional SaaS.
 
 They are not just systems of record.
 
-**They are systems of interpretation and action.**
+They are systems of interpretation and action.
 
 And systems of interpretation are never neutral.
 
 
-### Final thought
+### The shift that changes everything
 
 The most important shift in AI-enabled applications is not that software can now generate text.
 

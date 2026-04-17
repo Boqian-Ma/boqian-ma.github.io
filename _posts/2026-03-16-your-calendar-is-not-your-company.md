@@ -29,7 +29,6 @@ But I think founders need to say this more clearly.
 
 A busy calendar is not an achievement. It is not a business. In many cases, it is just visible chaos.
 
-
 ### The trap of visible activity
 
 This is one of the harder lessons we are learning right now. Generating demand is important. Getting meetings is important. But meetings alone prove almost nothing. What matters is whether there is a system underneath that can turn that interest into something repeatable, measurable, and scalable.
@@ -46,7 +45,6 @@ A lot of people confuse activity with progress because activity is easier to sho
 
 But those are the things that matter.
 
-
 ### Founder heroics do not scale
 
 Anyone can brute-force their way into a busy week. A founder can personally handle every call, push every follow-up, remember every detail in their head, and create the appearance of momentum. For a while, that works. In fact, in the early days it often has to work.
@@ -56,7 +54,6 @@ But founder heroics do not scale. Adrenaline is not infrastructure.
 Sooner or later, a full calendar stops feeling like validation and starts feeling like pressure. You realise the issue is no longer getting attention. The issue is what happens after attention arrives. If every lead depends on one person, if every deal moves differently, if every next step is improvised, if notes are incomplete, if no one can tell where conversion is leaking, then more meetings are not helping. They are exposing the fragility of the business.
 
 This is why I have become much less impressed by booked calendars.
-
 
 ### What a real company looks like
 
@@ -72,7 +69,6 @@ Because meetings are expensive. They cost time, energy, attention, and opportuni
 
 And that false confidence is dangerous. It tricks founders into believing they are scaling when they are actually just getting busier. It makes teams optimise for visible activity instead of underlying quality. It creates companies that look hot from the outside and feel brittle from the inside.
 
-
 ### Activity is an input, not an outcome
 
 A booked calendar should be seen for what it is: an input, not an outcome.
@@ -84,7 +80,6 @@ So yes, I still think a full calendar is worth appreciating. It means you have e
 But attention is fragile. Systems compound.
 
 That is the shift in thinking I wish more founders talked about. Not how to make the calendar look full, but how to build the operating system behind it. Not how to collect meetings, but how to make meetings matter. Not how to appear busy, but how to become structurally effective.
-
 
 ### The harder lesson
 

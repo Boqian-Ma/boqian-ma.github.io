@@ -2,12 +2,19 @@
 title: 'The Great Unbundling: Why the Post-SaaS Era Belongs to the "Sovereign Stack"'
 date: 2026-02-05
 permalink: /posts/2026/02/sovereign-stack-post-saas-era/
+excerpt: "The marginal cost of building software is racing toward zero. That changes everything about the Rent-vs-Build equation — and it means the era of the generic SaaS wrapper is ending."
+toc: true
+toc_label: "Contents"
+toc_sticky: true
 tags:
   - SaaS
   - AI
   - Technology Trends
   - Business Strategy
 ---
+
+*Why the era of renting generic software is ending*
+{: .page__lead }
 
 We are watching the slow-motion collapse of the B2B SaaS model as we know it.
 
@@ -57,9 +64,8 @@ The era of the "Generic Wrapper" is over. If your SaaS product is just a slightl
 
 **We aren't entering a world without software. We are entering a world where everyone is a software company.**
 
-***
 
-### Sources Referenced
+### Sources referenced
 * **The End of Rent Seeking / SaaS is Dying**: [Medium (Omer Trajman)](https://medium.com/@otrajman/the-end-of-rent-seeking-20860ea4c188) / [CTech Report](https://www.calcalistech.com/ctechnews/article/hk4b1tgpze)
 * **Service-as-Software Thesis**: [Foundation Capital](https://foundationcapital.com/service-as-software-ai/)
 * **The Composable Enterprise**: [Gartner Keynote: The Future of Business is Composable](https://www.gartner.com/smarterwithgartner/gartner-keynote-the-future-of-business-is-composable)
