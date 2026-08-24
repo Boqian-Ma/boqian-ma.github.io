@@ -12,7 +12,7 @@ redirect_from:
 
 G'day, 
 
-Currently, I'm working on [Voqo AI](https://www.voqo.ai/ "Voqo AI"). We build conversational Voice AI for voicemail. Time is money, therefore our mission is to help individuals and businesses to turn missed calls into revenue.
+I'm founder and CEO of [Voqo AI](https://www.voqo.ai/). We're building the standard of running a real estate office. Voqo sits above an agency's existing stack: it surfaces leads in the database, answers inbound calls, and logs everything back to the CRM.
 
 In December 2023, I finished my undergraduate degree with First Honours in computer science at the [University of New South Wales](https://www.unsw.edu.au/) here in Sydney, Australia. While studying, I was supported by the UNSW [Co-op scholarship](https://www.co-op.unsw.edu.au/). I was extremely fortunate to complete my honors thesis on the topic of blockchain scaling algorithms under the advisory of [Dr Sushmita Ruj](https://research.unsw.edu.au/people/dr-sushmita-ruj-0), during which we published my first peer-reviewed paper.
 
@@ -60,8 +60,8 @@ On the side, I managed (2019-2023) a high school education publisher [Catch Up W
 
 ## Work Experience
 [Voqo AI](https://www.voqo.ai/ "Voqo AI")
-: **Co-Founder / CEO**, February 2025 - Present
-: **Co-Founder / CTO**, March 2024 - February 2025
+: **Founder / CEO**, February 2025 - Present
+: **Founder / CTO**, March 2024 - February 2025
 
 [WiseTech Global](https://www.wisetechglobal.com/ "WiseTech Global")
 : **Content Service Team**, November 2022 - March 2023 (Left to focus on Honours year research project)
